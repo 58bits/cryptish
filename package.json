@@ -1,0 +1,36 @@
+{
+  "name": "cryptish",
+  "description": "Fast and furious crypto utils",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anthony Bouch",
+    "email": "tony@58bits.com",
+    "url": "http://www.58bits.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/58bits/cryptish"
+  },
+  "main": "index",
+  "keywords": [
+    "cryptography",
+    "security",
+    "utilites"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "lab": "4.x.x"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "http://github.com/58bits/cryptish/raw/master/LICENSE"
+    }
+  ]
+}
